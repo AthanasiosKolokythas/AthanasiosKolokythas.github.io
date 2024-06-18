@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Economics, Barcelona School of Economics (BSE), 2014
+* B.Sc. in Economics, Athens University of Economics and Business (AUEB), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+*  05/2024-08/2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
