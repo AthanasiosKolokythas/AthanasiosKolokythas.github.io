@@ -7,57 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+For more information, you are welcome to look at the pdf version of my CV.
 
 Education
 ======
 * M.Sc. in Economics, Barcelona School of Economics (BSE), 2024
 * B.Sc. in Economics, Athens University of Economics and Business (AUEB), 2023
 
-Work experience
+Work experience:
 ======
-*  05/2024-08/2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Economist (Internship), Hellenic Foundation for European Foreign Policy (ELIAMEP), 05/2024–08/2024
+  * I collected and analysed data about the start-up ecosystem, conducted literature review and co-authored the final report on the effects of the MIT Enterprise Forum incubator in the startup ecosystem.
+* Private tutor, Self-Employed, 07/2023–08/2023
+  * I taught Mathematical Economics and Introductory Microeconomics to undergraduate university students.
+* Economist (Internship), Hellenic Gaming Commission , 07/2022-09/2022
+  * I conducted data analysis and manipulation of financial-related data (revenues, expenditures and profit margins of gaming companies).
+  * I implemented statistical analysis of data and created a framework for finding out companies with abnormally high revenues and profit margins, in order for the Hellenic Gaming Commission to make targeted inspections.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Scholarships & Awards:
+======
+* N. Themelis Memorial Scholarship, Prime Minister of Greece Constantinos Simitis Foundation, 2023
+  * Merit-based scholarship to cover tuition for the Master of Science in Economics at the Barcelona School of Economics.
+* $5^{th}$ prize in the $28^{th}$ Economia Essay Contest Student, 2022
+* Distinction in the Euroscola Contest, 2018
+* INTRAWAY LTD-Management and Technology Consultants, 2017
+  * Scholarship to attend the $7^{th}$ Youth Entrepreneurship Summer School at the Athens University of Economics and Business (AUEB).  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Languages and Technical Skills:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages: Greek (Native), English (Fluent–C2), French (Intermediate–B1)
+* Programming & Tools: Python, R, Stata, MATLAB, Julia, LaTeX, SPSS, Git
+   
