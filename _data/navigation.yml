@@ -11,7 +11,10 @@ main:
 
   - title: "Software"
     url: /talks/
-
+    
+  - title: "Media"
+    url: /markdown/
+    
   - title: "Other"
     url: /portfolio/
 
@@ -36,5 +39,5 @@ main:
 #  - title: "CV"
 #    url: /cv/
       
-#  - title: "Guide"
+#  - title: "Media"
 #    url: /markdown/
