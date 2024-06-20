@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.Sc. in Economics, Barcelona School of Economics (BSE), 2014
+* M.Sc. in Economics, Barcelona School of Economics (BSE), 2024
 * B.Sc. in Economics, Athens University of Economics and Business (AUEB), 2023
 
 Work experience
