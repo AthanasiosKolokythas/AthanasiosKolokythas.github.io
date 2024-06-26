@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<p>For more information, you are welcome to look at the <a href="https://AthanasiosKolokythas.github.io/files/CV-Kolokythas.pdf" target="_blank">PDF version of my CV</a>.</p>
+<p>For more information, you are welcome to look at the <a href="https://AthanasiosKolokythas.github.io/files/CV_Kolokythas.pdf" target="_blank">PDF version of my CV</a>.</p>
 
 Education
 ======
