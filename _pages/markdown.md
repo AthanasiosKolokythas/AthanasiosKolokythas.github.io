@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /Media/
 title: "Under Construction"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Media.html
 ---
 
 
