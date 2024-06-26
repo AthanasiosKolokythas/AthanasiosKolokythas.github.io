@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Under Construction"
-permalink: /publications/
+permalink: /Research/
 author_profile: true
 ---
 
