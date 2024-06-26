@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /CV/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /Teaching/
 
   - title: "Research"
     url: /Research/
 
   - title: "Software"
-    url: /talks/
+    url: /Software/
     
   - title: "Media"
-    url: /markdown/
+    url: /Media/
     
   - title: "Other"
-    url: /portfolio/
+    url: /Other/
 
   #- title: "CV"
   #  url: /cv/
