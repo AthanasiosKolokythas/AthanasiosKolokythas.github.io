@@ -16,8 +16,8 @@ I have a keen interest in understanding economic theories and concepts and using
 
 My academic interests include:
 
-Primary: Macroeconomics, Monetary Economics, Time Series Econometrics
+Primary: Macroeconomics, Economic growth, Political Economy
 
-Secondary: Economic growth, Labor Economics
+Secondary: Monetary Economics, Labor Economics, Time Series Econometrics
 
 
