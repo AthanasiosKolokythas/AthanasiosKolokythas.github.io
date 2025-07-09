@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 24 years old postgraduate degree student in the Master Degree Program in Economics of the BSE.
-
-Until August 2024, I worked as a Research Assistant in the **Hellenic Foundation for European & Foreign Policy (ELIAMEP)**.
-
-I am fascinated by the field of economics. 
+I am a 25 years old graduate of the Master Degree Program in Economics and Finance at the BSE.<br>
+Until August 2024, I worked as a Research Assistant in the **Hellenic Foundation for European & Foreign Policy (ELIAMEP)**.<br>
+I am fascinated by the field of economics. <br>
 I have a keen interest in understanding economic theories and concepts and using them along with data in order to propose policies and conduct analysis that will have a positive impact into society.
 
-My academic interests include:
+My academic interests include:<br>
+**Primary:** Macroeconomics, Monetary Economics, Time Series Econometrics<br>
+**Secondary:** Development Economics, Labor Economics, Political Economy <br>
 
-Primary: Macroeconomics, Monetary Economics, Time Series Econometrics
 
-Secondary: Development Economics, Labor Economics, Political Economy 
+<!--📰 News:
+* I am at TSE-->
 
 
