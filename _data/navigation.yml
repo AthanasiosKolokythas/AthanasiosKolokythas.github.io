@@ -1,7 +1,3 @@
-image: 
-  src: /images/tse.jpg
-  alt: "The Toulouse School of Economics Building"
-  
 # main links links
 main:
   - title: "CV"
