@@ -16,9 +16,6 @@ url                      : "https://AthanasiosKolokythas.github.io" # the base h
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AthanasiosKolokythas/AthanasiosKolokythas.github.io"
 
-header:
-  image: /images/tse.jpg # Path to your header image
-  caption: "Welcome to My Academic Page"  # Optional caption for the image
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
