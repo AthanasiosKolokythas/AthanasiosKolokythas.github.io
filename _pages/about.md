@@ -21,6 +21,6 @@ My academic interests include:<br>
 
 <!--📰 News:
 * I am at TSE-->
- **News:**
+ **📰News:**
 * **09/2025:** I am really glad to announce that I have been admitted to the **Master 2 program in Economic Theory and Econometrics (M2 ETE)** at the Toulouse School of Economics (TSE).
 
