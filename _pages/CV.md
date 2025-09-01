@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-
+* Master 2 in Economic Theory and Econometrics (M2 ETE), Toulouse School of Economics (TSE), 2025
+  * Relevant courses: Microeconomics 1, Macroeconomics 1, Econometrics 1, Optimization 
 * M.Sc. in Economics, Barcelona School of Economics (BSE); GPA: 7.99/10, 2024 
   * Relevant courses: Microeconomics 1, Macroeconomics 1-2, Econometric Methods 1-2, Time Series Analysis, Advanced Time Series, Macro-Finance, Labor Economics (MRes course), Foundations of Data Science
   * Master Thesis: The effect of natural disasters on institutional quality: The case of Hurricane Maria in Puerto Rico.
@@ -32,15 +33,13 @@ Work experience:
     
 Scholarships & Awards:
 ======
-
+* Toulouse School of Economics (TSE) Fellowship, 2025
+  * Merit-based fellowship to cover tuition and living costs for the M2 ETE at TSE.
 * N. Themelis Memorial Scholarship, Prime Minister of Greece Constantinos Simitis Foundation, 2023
   * Merit-based scholarship to cover tuition for the Master of Science in Economics at the Barcelona School of Economics.
 * 5th prize in the 28th Economia Essay Contest Student, 2022
   * 5th prize award for my novel essay on the ways public green investments can boost productivity.
-* Distinction in the Euroscola Contest, 2018
-  * Engaged directly with the workings of the European Union (EU), experienced the role of a Member of the European Parliament (MEP), participated in a number of committees and provided policy suggestions on a number of issues.
-* INTRAWAY LTD-Management and Technology Consultants, 2017
-  * Scholarship to attend the 7th Youth Entrepreneurship Summer School at the Athens University of Economics and Business (AUEB).  
+ 
 
 Languages and Technical Skills:
 ======
