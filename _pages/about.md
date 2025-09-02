@@ -22,5 +22,5 @@ My academic interests include:<br>
 <!--📰 News:
 * I am at TSE-->
  **📰News:**
-* **09/2025:** I am really glad to announce that I have been admitted to the **Master 2 program in Economic Theory and Econometrics (M2 ETE)** at the Toulouse School of Economics (TSE).
+* **09/2025:** I am really glad to announce that I have been admitted to the **Master 2 program in Economic Theory and Econometrics (M2 ETE)** at the Toulouse School of Economics (TSE). <a href="https://www.linkedin.com/posts/athanasios-kolokythas_it-was-back-in-2022-when-a-good-friend-and-activity-7368564796650147840-4t0i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqgZUUBLDe2rzrPh9-0UaL3ukoBj86Afs0" target="_blank">Link here</a>
 
