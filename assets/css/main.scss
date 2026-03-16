@@ -41,20 +41,4 @@
 @import "print";
 
 
-.masthead {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-                    url('/assets/background.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-bottom: none;
-}
 
-/* Optional: Make the text white so it's readable over a dark image */
-.masthead__menu-item a {
-  color: #fff !important;
-}
-
-.site-title {
-  color: #fff !important;
-}
