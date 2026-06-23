@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Under Construction"
+title: "Research"
 permalink: /Research/
 author_profile: true
 ---
@@ -14,3 +14,37 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}-->
 <!--   {% include archive-single.html %}-->
 <!-- {% endfor %}-->
+---
+
+
+I'm currently developing my M2 ETE research, focusing on **macroeconomics** and **time series econometrics**. 
+
+---
+
+## Working Papers
+
+### Thesis Title: Optimal Fiscal Adjustments in Monetary Unions
+
+<details>
+  <summary><b>Click here to read the Abstract</b></summary>
+  <br>
+  <blockquote>
+  In Monetary Unions, fiscal adjustment pace critically determines Central banks’ stabilization capacity.
+Standard macroeconomic theory suggests that with Ricardian households, fiscal adjustment should be
+rapid enough to support monetary dominance. However, with Non-Ricardian households the monetary
+authority may prefer fiscal adjustment to be slow. I extend this debate to Monetary Unions, where
+cross-border spillovers complicate fiscal-monetary coordination. I employ a two-country Monetary
+Union with positively correlated shocks. The results show that: (1) when demand shocks dominate,
+slow adjustment is optimal under both uniform and heterogeneous fiscal frameworks; (2) when supply
+shocks dominate, in the uniform framework, the optimal fiscal adjustment depends on the the degree
+of shock correlation and the Central bank weight towards the least affected economy, while in hetero-
+geneous frameworks the answer depends only on the former; (3) heterogeneous frameworks outperform
+their uniform counterparts. Importantly, these results extend to N > 2 country Monetary Unions.
+  </blockquote>
+</details>
+
+---
+
+## Contact
+In the meantime, feel free to reach out at [athanasios.kolokythas@tse-fr.eu](mailto:athanasios.kolokythas@tse-fr.eu).
+
