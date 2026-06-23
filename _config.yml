@@ -217,6 +217,14 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_image: /images/background.jpg
+        overlay_filter: 0.5
+#defaults:
   # _posts
   - scope:
       path: ""
