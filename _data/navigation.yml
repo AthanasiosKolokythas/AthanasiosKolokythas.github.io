@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /CV/
 
-  - title: "Teaching"
-    url: /Teaching/
+ # - title: "Teaching"
+ #   url: /Teaching/
 
   - title: "Research"
     url: /Research/
@@ -12,12 +12,12 @@ main:
   - title: "Codes"
     url: /Codes/
     
-  - title: "Media"
-    url: /Media/
+#  - title: "Media"
+#    url: /Media/
     
-  - title: "Misc."
-    url: /Other/
-
+#  - title: "Misc."
+#    url: /Other/
+###############################
   #- title: "CV"
   #  url: /cv/
     
