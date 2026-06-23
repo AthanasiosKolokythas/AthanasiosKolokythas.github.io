@@ -1,0 +1,36 @@
+// _sass/_custom.scss
+
+/* Full-page background image, fixed behind everything */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("/images/background.jpg") no-repeat center center;
+  background-size: cover;
+  z-index: -1;
+}
+
+/* Make the nav bar transparent so the image shows through */
+.masthead {
+  background-color: transparent;
+  background: transparent;
+  box-shadow: none;
+}
+
+/* Make the main content area semi-transparent instead of solid white,
+   so text stays readable over a busy photo */
+.page,
+.archive,
+.sidebar,
+.toc {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 6px;
+}
+
+/* Footer transparent too, to match */
+.page__footer {
+  background-color: transparent;
+}
