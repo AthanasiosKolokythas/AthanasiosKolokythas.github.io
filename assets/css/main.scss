@@ -37,6 +37,15 @@
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
+
+header {
+    background-image: url('background.png'); /* Adjust path if inside an images folder, e.g., 'images/background.png' */
+    background-size: cover;                  /* Ensures the image covers the entire header area */
+    background-position: center right;       /* Keeps the building graphic visible on the right */
+    background-repeat: no-repeat;
+    color: white;                            /* Makes text readable against the blue background */
+    padding: 60px 20px;                      /* Adjust spacing to give the banner height */
+}
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
