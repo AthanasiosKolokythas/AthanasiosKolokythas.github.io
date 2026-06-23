@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Athanasios Kolokythas"
 title_separator          : "-"
 name                     : &name "Athanasios Kolokythas"
-description              : &description "Graduate"
+description              : &description "Personal site of Athanasios Kolokythas — M2 ETE student at Toulouse School of Economics, working on macroeconomics, monetary economics, and time series econometrics."
 url                      : "https://AthanasiosKolokythas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AthanasiosKolokythas/AthanasiosKolokythas.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "France"
   employer         : "Toulouse School of Economics"
   uri              : # URL
-  email            : "athanasios.kolokythas@bse.eu" 
+  email            : "athanasios.kolokythas@tse-fr.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -282,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
