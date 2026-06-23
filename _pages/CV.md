@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Master 2 in Economic Theory and Econometrics (M2 ETE), Toulouse School of Economics (TSE), 2025
-  * Relevant courses: Microeconomics 1, Macroeconomics 1, Econometrics 1, Optimization 
+  * Relevant courses: Microeconomics 1-2, Macroeconomics 1-2, Econometrics 1-2, Optimization, Advances in Macroeconomics, Public Economics
 * M.Sc. in Economics, Barcelona School of Economics (BSE); GPA: 7.99/10, 2024 
   * Relevant courses: Microeconomics 1, Macroeconomics 1-2, Econometric Methods 1-2, Time Series Analysis, Advanced Time Series, Macro-Finance, Labor Economics (MRes course), Foundations of Data Science
   * Master Thesis: The effect of natural disasters on institutional quality: The case of Hurricane Maria in Puerto Rico.
@@ -20,7 +20,7 @@ Education
   * Salutatorian (2nd highest GPA, top 3% in my graduating class)
   * Relevant courses: Macroeconomics, Microeconomics, Econometrics, Game Theory and Uncertainty, Industrial Organization, Public Finance, Monetary Theory and Policy
 
-Work experience:
+Work experience
 ======
 
 * Research Assistant, Hellenic Foundation for European Foreign Policy (ELIAMEP), 05/2024–08/2024
@@ -31,7 +31,7 @@ Work experience:
   * Collected and cleaned financial-related data for 4000 gambling companies in 52 municipalities of Greece.
   * Conducted statistical analysis of that data in R and MATLAB and then applied the new methodology.
     
-Scholarships & Awards:
+Scholarships & Awards
 ======
 * Toulouse School of Economics (TSE) Fellowship, 2025
   * Merit-based fellowship to cover tuition and living costs for the M2 ETE at TSE.
@@ -41,7 +41,7 @@ Scholarships & Awards:
   * 5th prize award for my novel essay on the ways public green investments can boost productivity.
  
 
-Languages and Technical Skills:
+Languages and Technical Skills
 ======
 
 * Languages: Greek (Native), English (Fluent–C2), French (Intermediate–B1)
