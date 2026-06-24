@@ -19,7 +19,7 @@ body::after {
   position: fixed;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background: rgba(14, 34, 132, 0.35); /* raise toward 0.7 for even calmer 4,10,40*/
+  background: rgba(4, 10, 100, 0.35); /* raise toward 0.7 for even calmer 4,10,40*/
   z-index: -1;
 }
 
