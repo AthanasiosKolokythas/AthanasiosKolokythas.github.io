@@ -1,6 +1,7 @@
 // _sass/_custom.scss
 
-/* 1) Full-page background image, fixed behind everything */
+/* 1) Background image - now blurred and dimmed so it stops
+      competing with the text */
 body::before {
   content: "";
   position: fixed;
@@ -8,22 +9,23 @@ body::before {
   width: 100%; height: 100%;
   background: url("/images/background.png") no-repeat center center;
   background-size: cover;
+  filter: blur(6px) brightness(0.55) saturate(0.85);
   z-index: -2;
 }
 
-/* 2) ONE uniform tint over the whole viewport (not a box around the
-      text) so contrast is consistent everywhere on the page */
+/* 2) One uniform tint over the whole viewport - no boxes */
 body::after {
   content: "";
   position: fixed;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background: rgba(4, 10, 40, 0.45); /* tweak 0.45 to taste */
+  background: rgba(4, 10, 40, 0.55); /* raise toward 0.7 for even calmer */
   z-index: -1;
 }
 
-/* 3) Kill the white boxes - content sits directly on the image */
+/* 3) Kill every white box - INCLUDING the nav bar's own background */
 .masthead,
+.greedy-nav,
 .page,
 .archive,
 .sidebar,
@@ -34,7 +36,20 @@ body::after {
   border-radius: 0 !important;
 }
 
-/* 4) Light text + shadow so it stays readable over the photo */
+/* the mobile "more ▾" dropdown needs an opaque panel to stay usable -
+   give it a dark one instead of the old white box */
+.greedy-nav .hidden-links {
+  background: rgba(10, 18, 50, 0.95) !important;
+  border-color: rgba(255, 255, 255, 0.15);
+
+  a { color: #f3f5fa; }
+  a:hover { background: rgba(255, 255, 255, 0.1) !important; }
+
+  &:before { border-color: rgba(10, 18, 50, 0.95) transparent; }
+  &:after  { border-color: rgba(10, 18, 50, 0.95) transparent; }
+}
+
+/* 4) Light text + shadow so it reads clearly over the dimmed photo */
 body,
 .page__content, .page__title, .page__meta,
 .archive__item-title, .archive__item-excerpt,
@@ -47,11 +62,14 @@ p, li, h1, h2, h3, h4, h5, h6 {
 a { color: #9fd0ff; }
 a:hover { color: #ffffff; }
 
-/* masthead nav links currently use a dark navy that disappears
-   against the dark background image - force them light */
 .masthead a,
-.masthead__menu-item a {
+.masthead__menu-item a,
+.greedy-nav a {
   color: #f3f5fa !important;
+}
+
+.greedy-nav button {
+  background-color: rgba(255, 255, 255, 0.15) !important;
 }
 
 .page__content h2 {
