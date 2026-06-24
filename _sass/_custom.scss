@@ -1,36 +1,59 @@
 // _sass/_custom.scss
 
-/* Full-page background image, fixed behind everything */
+/* 1) Full-page background image, fixed behind everything */
 body::before {
   content: "";
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
   background: url("/images/background.png") no-repeat center center;
   background-size: cover;
+  z-index: -2;
+}
+
+/* 2) ONE uniform tint over the whole viewport (not a box around the
+      text) so contrast is consistent everywhere on the page */
+body::after {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(4, 10, 40, 0.45); /* tweak 0.45 to taste */
   z-index: -1;
 }
 
-/* Make the nav bar transparent so the image shows through */
-.masthead {
-  background-color: transparent;
-  background: transparent;
-  box-shadow: none;
-}
-
-/* Make the main content area semi-transparent instead of solid white,
-   so text stays readable over a busy photo */
+/* 3) Kill the white boxes - content sits directly on the image */
+.masthead,
 .page,
 .archive,
 .sidebar,
-.toc {
-  background-color: rgba(255, 255, 255, 0.85);
-  border-radius: 6px;
+.toc,
+.page__footer {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
 }
 
-/* Footer transparent too, to match */
-.page__footer {
-  background-color: transparent;
+/* 4) Light text + shadow so it stays readable over the photo */
+body,
+.page__content, .page__title, .page__meta,
+.archive__item-title, .archive__item-excerpt,
+.sidebar, .author__name, .author__bio,
+p, li, h1, h2, h3, h4, h5, h6 {
+  color: #f3f5fa;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+}
+
+a { color: #9fd0ff; }
+a:hover { color: #ffffff; }
+
+/* masthead nav links currently use a dark navy that disappears
+   against the dark background image - force them light */
+.masthead a,
+.masthead__menu-item a {
+  color: #f3f5fa !important;
+}
+
+.page__content h2 {
+  border-bottom-color: rgba(255, 255, 255, 0.35);
 }
