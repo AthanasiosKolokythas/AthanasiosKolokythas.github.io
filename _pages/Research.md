@@ -25,11 +25,8 @@ I'm currently developing my M2 ETE research, focusing on **macroeconomics** and 
 
 ### Thesis Title: Optimal Fiscal Adjustments in Monetary Unions
 
-<!-- Abstract Dropdown Styled as a Wide Button -->
-<details style="margin-bottom: 10px;">
-  <summary class="btn btn--primary" style="display: block; text-align: center; cursor: pointer; padding: 10px; border-radius: 4px; font-weight: bold; list-style: none;">
-    Click here to read the Abstract
-  </summary>
+<details>
+  <summary><b>Click here to read the Abstract</b></summary>
   <br>
   <blockquote>
   In Monetary Unions, fiscal adjustment pace critically determines Central banks’ stabilization capacity.
@@ -45,6 +42,7 @@ geneous frameworks the answer depends only on the former; (3) heterogeneous fram
 their uniform counterparts. Importantly, these results extend to N > 2 country Monetary Unions.
   </blockquote>
 </details>
+
 
 <!-- Three Side-by-Side Buttons Always Visible Below -->
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
