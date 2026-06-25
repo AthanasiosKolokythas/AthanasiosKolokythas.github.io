@@ -75,3 +75,14 @@ a:hover { color: #ffffff; }
 .page__content h2 {
   border-bottom-color: rgba(255, 255, 255, 0.35);
 }
+
+.site-logo img {
+  background-color: transparent !important;
+  padding: 0;
+  border: none;
+}
+
+.masthead-title img {
+  background-color: transparent !important;
+}
+
