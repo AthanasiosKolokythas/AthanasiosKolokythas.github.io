@@ -44,13 +44,13 @@ their uniform counterparts. Importantly, these results extend to N > 2 country M
 </details>
 
 
-<!-- Three Side-by-Side Buttons Always Visible Below -->
+<!-- Three Side-by-Side Buttons Always Visible Below 
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
   <a href="https://www.kathimerini.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Paper</a>
   <a href="https://www.protothema.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Slides</a>
   <a href="https://www.capital.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Code</a>
 </div>
-
+-->
 ---
 
 ## Contact
