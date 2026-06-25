@@ -41,6 +41,7 @@ of shock correlation and the Central bank weight towards the least affected econ
 geneous frameworks the answer depends only on the former; (3) heterogeneous frameworks outperform
 their uniform counterparts. Importantly, these results extend to N > 2 country Monetary Unions.
   </blockquote>
+  </details>
 <!-- Side-by-side Buttons Start -->
   <div style="display: flex; gap: 10px; margin-top: 15px; margin-bottom: 15px;">
     <a href="https://www.kathimerini.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Paper</a>
@@ -50,7 +51,7 @@ their uniform counterparts. Importantly, these results extend to N > 2 country M
   <!-- Side-by-side Buttons End -->
 
   
-</details>
+
 
 ---
 
