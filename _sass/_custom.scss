@@ -86,3 +86,12 @@ a:hover { color: #ffffff; }
   background-color: transparent !important;
 }
 
+/* Make the nav bar scroll away with the page instead of staying fixed */
+.masthead {
+  position: relative !important;
+  top: auto !important;
+}
+
+body {
+  padding-top: 0 !important;
+}
