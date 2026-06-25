@@ -168,13 +168,12 @@ $global-transition          : all 0.2s ease-in-out;
 
 
 
-.site-logo img {
-  background-color: transparent !important;
-  padding: 0;
-  border: none;
-}
 
 .masthead-title img {
   background-color: transparent !important;
 }
 
+.site-logo img {
+  background-color: #ffffff; /* Change to match your navbar background */
+  padding: 0;
+}
