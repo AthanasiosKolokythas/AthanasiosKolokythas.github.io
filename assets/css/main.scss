@@ -42,4 +42,37 @@
 @import "print";
 @import "custom";
 
+.greedy-nav {
+  position: relative; /* anchor point for the logo */
 
+  .site-logo {
+    position: absolute;
+    top: 50%;
+    right: 1em;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    z-index: 15;
+
+    img {
+      height: 40px;     /* <- set this to match your navbar height */
+      width: auto;      /* keeps the logo's own aspect ratio */
+      max-height: 100%;
+      display: block;
+    }
+  }
+
+  /* leave room so nav links don't run under the logo */
+  .visible-links {
+    padding-right: 70px;
+  }
+}
+
+@media (max-width: 600px) {
+  .greedy-nav .site-logo img {
+    height: 28px;
+  }
+  .greedy-nav .visible-links {
+    padding-right: 50px;
+  }
+}
