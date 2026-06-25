@@ -20,13 +20,16 @@ author_profile: true
 I'm currently developing my M2 ETE research, focusing on **macroeconomics** and **time series econometrics**. 
 
 ---
-
+  
 ## Working Papers
 
 ### Thesis Title: Optimal Fiscal Adjustments in Monetary Unions
 
-<details>
-  <summary><b>Click here to read the Abstract</b></summary>
+<!-- Abstract Dropdown Styled as a Wide Button -->
+<details style="margin-bottom: 10px;">
+  <summary class="btn btn--primary" style="display: block; text-align: center; cursor: pointer; padding: 10px; border-radius: 4px; font-weight: bold; list-style: none;">
+    Click here to read the Abstract
+  </summary>
   <br>
   <blockquote>
   In Monetary Unions, fiscal adjustment pace critically determines Central banks’ stabilization capacity.
@@ -41,17 +44,14 @@ of shock correlation and the Central bank weight towards the least affected econ
 geneous frameworks the answer depends only on the former; (3) heterogeneous frameworks outperform
 their uniform counterparts. Importantly, these results extend to N > 2 country Monetary Unions.
   </blockquote>
-  </details>
-<!-- Side-by-side Buttons Start -->
-  <div style="display: flex; gap: 10px; margin-top: 15px; margin-bottom: 15px;">
-    <a href="https://www.kathimerini.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Paper</a>
-    <a href="https://www.protothema.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Slides</a>
-    <a href="https://www.capital.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Code</a>
-  </div>
-  <!-- Side-by-side Buttons End -->
+</details>
 
-  
-
+<!-- Three Side-by-Side Buttons Always Visible Below -->
+<div style="display: flex; gap: 10px; margin-bottom: 15px;">
+  <a href="https://www.kathimerini.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Paper</a>
+  <a href="https://www.protothema.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Slides</a>
+  <a href="https://www.capital.gr/" class="btn btn--primary" style="flex: 1; text-align: center; text-decoration: none; padding: 10px; border-radius: 4px;">Code</a>
+</div>
 
 ---
 
