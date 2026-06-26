@@ -68,6 +68,31 @@ a:hover { color: #ffffff; }
   color: #f3f5fa !important;
 }
 
+
+/* in _sass/_custom.scss */
+
+.greedy-nav .site-logo {
+  display: inline-block !important; /* overrides "nav a { display:block }" so it sits beside the title instead of stacking above it */
+  margin: 0 1rem 0 0;
+  vertical-align: middle;
+}
+
+.site-logo img {
+  background-color: transparent !important;
+  padding: 0;
+  border: none;
+  height: 40px;     /* fits comfortably inside the 70px masthead */
+  width: auto;      /* keep the logo's proportions */
+  max-width: 140px;
+
+  @include breakpoint($small) {
+    height: 30px;   /* a touch smaller on phones */
+  }
+}
+
+
+
+
 .greedy-nav button {
   background-color: rgba(255, 255, 255, 0.15) !important;
 }
@@ -95,3 +120,4 @@ a:hover { color: #ffffff; }
 body {
   padding-top: 0 !important;
 }
+
