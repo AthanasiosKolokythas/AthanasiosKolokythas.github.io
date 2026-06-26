@@ -76,3 +76,41 @@
     padding-right: 50px;
   }
 }
+
+
+.greedy-nav {
+  position: relative; /* anchor point for the logo */
+
+  /* the hamburger button sits at right:0, is ~44px wide, and has a
+     higher z-index — the logo needs to start to its LEFT, not under it */
+  .site-logo {
+    position: absolute;
+    top: 50%;
+    right: 3.5em;      /* was 1em — now clears the hamburger button */
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    z-index: 15;
+
+    img {
+      height: 40px;
+      width: auto;
+      max-height: 100%;
+      display: block;
+    }
+  }
+
+  /* leave room so nav links don't run under the logo + button */
+  .visible-links {
+    padding-right: 180px;
+  }
+}
+
+@media (max-width: 600px) {
+  .greedy-nav .site-logo img {
+    height: 28px;
+  }
+  .greedy-nav .visible-links {
+    padding-right: 140px;
+  }
+}
