@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year student of the Master 2 Program in Economics Theory and Econometrics (M2 ETE-PhD Track) at the Toulouse School of Economics (TSE).<br>
+I am a student of the Master 2 Program in Economics Theory and Econometrics (M2 ETE-PhD Track) at the Toulouse School of Economics (TSE).<br>
 I am fascinated by the field of economics and in particular by the field of macroeconomics. <br>
 My interests lie in leveraging macroeconomic theory and quantitative methods, in order to propose policies and conduct rigorous analysis that contributes positively to social progress.
 
