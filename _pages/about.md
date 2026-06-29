@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 26 year old student of the Master 2 Program in Economics Theory and Econometrics (M2 ETE) at the TSE.<br>
-The M2 ETE program is considered to be the 1st year of the PhD program at the TSE.<br>
-In addition to that, I have graduated with a MSc in Economics and Finance from the BSE and a BSc in Economics from AUEB.<br>
-Until August 2024, I worked as a Research Assistant in the **Hellenic Foundation for European & Foreign Policy (ELIAMEP)**.<br>
+I am a 1st year student of the Master 2 Program in Economics Theory and Econometrics (M2 ETE-PhD Track) at the Toulouse School of Economics (TSE).<br>
 I am fascinated by the field of economics and in particular by the field of macroeconomics. <br>
-I have a keen interest in understanding economic theories and concepts and using them along with data in order to propose policies and conduct analysis that will have a positive impact on society.
+My interests lie in leveraging macroeconomic theory and quantitative methods, in order to propose policies and conduct rigorous analysis that contributes positively to social progress.
 
 My academic interests include:<br>
 **Primary:** Macroeconomics, Financial Economics<br>
