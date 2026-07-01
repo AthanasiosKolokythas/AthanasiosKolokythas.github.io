@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<p>For more information, you are welcome to look at the <a href="https://AthanasiosKolokythas.github.io/files/Athanasios_Kolokythas_CV.pdf" target="_blank">PDF version of my CV</a>.</p>
+<!-- <p>For more information, you are welcome to look at the <a href="https://AthanasiosKolokythas.github.io/files/Athanasios_Kolokythas_CV.pdf" target="_blank">PDF version of my CV</a>.</p> -->
 
-Education
+<!-- Education
 ======
 * Master 2 in Economic Theory and Econometrics (M2 ETE), Toulouse School of Economics (TSE); GPA: 13.75/20, 2025
 * M.Sc. in Economics, Barcelona School of Economics (BSE); GPA: 7.99/10, 2024 
@@ -40,15 +40,15 @@ Languages and Technical Skills
 ======
 
 * Languages: Greek (Native), English (Fluent–C2), French (Intermediate–B1)
-* Programming & Tools: Python, R, Stata, MATLAB, Julia, LaTeX, SPSS, Git
+* Programming & Tools: Python, R, Stata, MATLAB, Julia, LaTeX, SPSS, Git-->
 
-Below you can view or download the attached document.
+Below you can view and download my CV.
 
 <!-- Download Button -->
 <div style="margin-bottom: 25px;">
   <a href="{{ '/files/Athanasios_Kolokythas_CV.pdf' | relative_url }}" download="Athanasios_Kolokythas_CV.pdf">
     <button style="padding: 12px 24px; background-color: #007bff; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px;">
-      📥 Download Athanasios_Kolokythas_CV.pdf
+      📥 Download CV
     </button>
   </a>
 </div>
