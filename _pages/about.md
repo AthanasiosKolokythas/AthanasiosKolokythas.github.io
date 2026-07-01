@@ -12,8 +12,8 @@ I am fascinated by the field of economics and in particular by the field of macr
 My interests lie in leveraging macroeconomic theory and quantitative methods, in order to propose policies and conduct rigorous analysis that contributes positively to social progress.
 
 My academic interests include:<br>
-**Primary:** Macroeconomics, Financial Economics<br>
-**Secondary:** Monetary Economics, Time Series Econometrics <br>
+**Primary:** Macroeconomics, Monetary Economics<br>
+**Secondary:**Time Series Econometrics, Financial Economics <br>
 
 
 <!--📰 News:
