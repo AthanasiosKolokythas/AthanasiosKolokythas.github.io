@@ -42,4 +42,20 @@ Languages and Technical Skills
 * Languages: Greek (Native), English (Fluent–C2), French (Intermediate–B1)
 * Programming & Tools: Python, R, Stata, MATLAB, Julia, LaTeX, SPSS, Git
 
+Below you can view or download the attached document.
 
+<!-- Download Button -->
+<div style="margin-bottom: 25px;">
+  <a href="{{ '/files/Athanasios_Kolokythas_CV.pdf' | relative_url }}" download="Athanasios_Kolokythas_CV.pdf">
+    <button style="padding: 12px 24px; background-color: #007bff; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px;">
+      📥 Download Athanasios_Kolokythas_CV.pdf
+    </button>
+  </a>
+</div>
+
+<!-- Embedded PDF Viewer -->
+<div style="position: relative; width: 100%; height: 750px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
+  <iframe src="{{ '/files/Athanasios_Kolokythas_CV.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    Your browser does not support embedding PDFs. Please use the download button above to view the file.
+  </iframe>
+</div>
