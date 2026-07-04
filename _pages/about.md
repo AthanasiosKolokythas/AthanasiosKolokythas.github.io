@@ -13,7 +13,7 @@ My interests lie in leveraging macroeconomic theory and quantitative methods, in
 
 My academic interests include:<br>
 **Primary:** Macroeconomics, Monetary Economics<br>
-**Secondary:**Time Series Econometrics, Financial Economics <br>
+**Secondary:** Time Series Econometrics, Financial Economics <br>
 
 
 <!--📰 News:
