@@ -70,7 +70,7 @@
 
 @media (max-width: 600px) {
   .greedy-nav .site-logo {
-    right: 5rem;
+    right: 4rem;
     max-width: 90px;
   }
 
@@ -79,6 +79,10 @@
   }
   .greedy-nav .visible-links {
     padding-right: 10.5rem;
+  }
+
+  .greedy-nav .visible-links li:first-child a {
+    white-space: nowrap;
   }
 }
 
