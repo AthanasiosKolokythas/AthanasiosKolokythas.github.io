@@ -69,6 +69,11 @@
 }
 
 @media (max-width: 600px) {
+  .greedy-nav .site-logo {
+    right: 3.5rem;
+    max-width: 110px;
+  }
+
   .greedy-nav .site-logo img {
     height: 28px;
   }
