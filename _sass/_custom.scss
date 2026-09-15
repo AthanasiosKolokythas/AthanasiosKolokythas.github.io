@@ -111,10 +111,21 @@ a:hover { color: #ffffff; }
   background-color: transparent !important;
 }
 
-/* Make the nav bar scroll away with the page instead of staying fixed */
+/* Keep a compact, solid masthead visible while the page scrolls. */
 .masthead {
-  position: relative !important;
-  top: auto !important;
+  position: sticky !important;
+  top: 0 !important;
+  height: 56px;
+  background: #102a43 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 body {
