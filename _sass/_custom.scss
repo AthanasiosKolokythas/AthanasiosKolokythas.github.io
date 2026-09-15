@@ -111,16 +111,22 @@ a:hover { color: #ffffff; }
   background-color: transparent !important;
 }
 
-/* Keep a compact masthead visible while letting the page background show through. */
+/* Keep a compact, high-contrast masthead visible while the page scrolls. */
 .masthead {
   position: sticky !important;
   top: 0 !important;
   height: 56px;
-  background: transparent !important;
+  background: #102a43 !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.12);
   box-shadow: none;
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
+}
+
+.masthead a,
+.masthead__menu-item a {
+  color: #fff !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
 }
 
 .masthead__inner-wrap {
